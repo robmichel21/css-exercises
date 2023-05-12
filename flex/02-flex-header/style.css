@@ -31,3 +31,9 @@ a {
   justify-content: flex-start;
   align-items: center;
 }
+
+.right-links {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
